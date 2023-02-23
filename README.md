@@ -12,8 +12,6 @@ The usage of these separate plotting libraries necessitates independent download
 * numpy (pyhon)
 * scipy.integrate (python)
 * sympy (python)
-* seed (python)
-* mpl_toolkits.mplot3d (python)
 
 The python file 
 

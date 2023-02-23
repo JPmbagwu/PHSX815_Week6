@@ -2,7 +2,7 @@
 
 This program is available in this repository:
 
-* MCIntegrate_Python.py [Python].
+* Integral.py [Python].
 
 # Usage
 
@@ -19,6 +19,6 @@ The python file
 
 can be run from the Command/Terminal line by typing:
 
-`<> python MCIntegrate_Python.py `
+`<> python Integral.py `
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, seed, scipy.integrate and Matplotlib also installed.

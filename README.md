@@ -15,7 +15,7 @@ The usage of these separate plotting libraries necessitates independent download
 
 The python file 
 
-* Integral.py 
+* Trap_Gauss_Python.py
 
 can be run from the Command/Terminal line by typing:
 

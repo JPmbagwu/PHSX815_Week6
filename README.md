@@ -15,7 +15,7 @@ The usage of these separate plotting libraries necessitates independent download
 
 The python file 
 
-* MCIntegrate_Python.py 
+* Integral.py 
 
 can be run from the Command/Terminal line by typing:
 

@@ -15,7 +15,7 @@ The usage of these separate plotting libraries necessitates independent download
 * seed (python)
 * mpl_toolkits.mplot3d (python)
 
-They following python file 
+The python file 
 
 * MCIntegrate_Python.py 
 

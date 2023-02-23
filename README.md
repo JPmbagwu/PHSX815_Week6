@@ -2,7 +2,7 @@
 
 This program is available in this repository:
 
-* Integral.py [Python].
+* Trap_Gauss_Python.py [Python]. which compares the trapezoidal rule with the Gaussian Quadrature methods, or numerical integration to evaluate a function in a finite interval.
 
 # Usage
 
@@ -19,6 +19,6 @@ The python file
 
 can be run from the Command/Terminal line by typing:
 
-`<> python Integral.py `
+`<> python Trap_Gauss_Python.py `
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, seed, scipy.integrate and Matplotlib also installed.

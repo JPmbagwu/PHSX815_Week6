@@ -1,6 +1,6 @@
 # PHSX815_Week6
 
-This program is available in this repository:
+These programs are available in this repository:
 
 * Trap_Gauss_Python.py [Python]. which compares the trapezoidal rule with the Gaussian Quadrature methods, or numerical integration to evaluate a function in a finite interval.
 * MCIntegrate_Python.py [Python].
@@ -14,7 +14,7 @@ The usage of these separate plotting libraries necessitates independent download
 * scipy.integrate (python)
 * sympy (python)
 
-The python file 
+They python file 
 
 * Trap_Gauss_Python.py
 * MCIntegrate_Python.py

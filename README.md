@@ -23,6 +23,6 @@ can be run from the Command/Terminal line by typing:
 
 `<> python Trap_Gauss_Python.py `
 
-`<> MCIntegrate_Python.py `
+`<> python MCIntegrate_Python.py `
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, seed, scipy.integrate and Matplotlib also installed.

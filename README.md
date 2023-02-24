@@ -14,7 +14,7 @@ The usage of these separate plotting libraries necessitates independent download
 * scipy.integrate (python)
 * sympy (python)
 
-They python file 
+They python files 
 
 * Trap_Gauss_Python.py
 * MCIntegrate_Python.py
